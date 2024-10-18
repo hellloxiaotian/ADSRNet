@@ -1,4 +1,4 @@
-# HDSRNet
+# ADSRNet
 ## Heterogeneous dynamic convolutional network in image super-resolution (HDSRNet) is conducted by Chunwei Tian, Xuanyu Zhang, Jia Ren, Wangmeng Zuo, Yanning Zhang and Chia-Wen Lin. It is implemented by Pytorch. 
 ## It is reported by famous wechat computer technique platforms of AIWalker (https://mp.weixin.qq.com/s/QNtvp6IcvfRrSaHJIelOFQ).
 ## Its orginal paper can be obtained by https://arxiv.org/pdf/2402.15704.pdf.
