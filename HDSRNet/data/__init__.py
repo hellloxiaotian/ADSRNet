@@ -34,7 +34,7 @@ class Data:
 
         self.loader_test = []
         for d in args.data_test:
-            if d in ['Set5', 'Set14', 'B100', 'Urban100']:
+            if d in ['Set5', 'Set14', 'B100', 'Urban100', 'Day365', 'RSS']:
                 m = import_module('data.benchmark')
                 testset = getattr(m, 'Benchmark')(args, train=False, name=d)
             else:

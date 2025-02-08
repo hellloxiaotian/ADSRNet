@@ -20,7 +20,7 @@ parser.add_argument('--seed', type=int, default=1,
 
 # Data specifications
 # parser.add_argument('--dir_data', type=str, default='../../dataset',
-parser.add_argument('--dir_data', type=str, default='/data/zhangxy/datasets/',
+parser.add_argument('--dir_data', type=str, default='/data/datasets/',
 # parser.add_argument('--dir_data', type=str, default='/data/zhangxuanyu/datasets/',
 # parser.add_argument('--dir_data', type=str, default='/data/zxy/datasets/',
                     help='dataset directory')
