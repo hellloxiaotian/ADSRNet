@@ -1,5 +1,5 @@
 # ADSRNet
-## Heterogeneous dynamic convolutional network in image super-resolution (HDSRNet) is conducted by Chunwei Tian, Xuanyu Zhang, Jia Ren, Wangmeng Zuo, Yanning Zhang and Chia-Wen Lin. It is implemented by Pytorch. 
+## Heterogeneous dynamic convolutional network in image super-resolution (HDSRNet) is conducted by Chunwei Tian, Xuanyu Zhang, Tao Wang, Yongjun Zhang, Qi Zhu and Chia-Wen Lin. It is implemented by Pytorch. 
 ## It is reported by famous wechat computer technique platforms of AIWalker (https://mp.weixin.qq.com/s/QNtvp6IcvfRrSaHJIelOFQ).
 ## Its orginal paper can be obtained by https://arxiv.org/pdf/2402.15704.pdf.
 
@@ -105,12 +105,12 @@
 
 ## If you cite this paper, please use the following format:
 
-### 1. Tian, C., Zhang, X., Ren, J., Zuo, W., Zhang, Y., & Lin, C. W. (2024). A Heterogeneous Dynamic Convolutional Neural Network for Image Super-resolution. arXiv preprint arXiv:2402.15704.
+### 1. Tian, C., Zhang, X., Wang, T., Zhang, Y., Zhu, Q., & Lin, C. W. (2024). Adaptive convolutional neural network for image super-resolution. arXiv preprint arXiv:2402.15704.
 ### 2. BibTeX style format.
 ```BibTeX
-@article{tian2024heterogeneous,
-  title={A Heterogeneous Dynamic Convolutional Neural Network for Image Super-resolution},
-  author={Tian, Chunwei and Zhang, Xuanyu and Ren, Jia and Zuo, Wangmeng and Zhang, Yanning and Lin, Chia-Wen},
+@article{tian2024adaptive,
+  title={Adaptive convolutional neural network for image super-resolution},
+  author={Tian, Chunwei and Zhang, Xuanyu and Wang, Tao and Zhang, Yongjun and Zhu, Qi and Lin, Chia-Wen},
   journal={arXiv preprint arXiv:2402.15704},
   year={2024}
 }
